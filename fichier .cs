@@ -4,6 +4,7 @@ class Program
 {
     static void Main()
     {
-        Console.WriteLine("français");
+        Console.WriteLine("not french");
+	Console.WriteLine("merge conflict");
     }
 }
