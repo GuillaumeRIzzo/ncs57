@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GestionContact")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d33960a044e17867cc71e387e4c4c5c3ff9676ef")]
 [assembly: System.Reflection.AssemblyProductAttribute("GestionContact")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GestionContact")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
